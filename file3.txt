@@ -1,2 +1,3 @@
 My file3 commit 1 .
-commit 
+commit
+commit 3
